@@ -37,7 +37,12 @@ tbd
 
 ## License
 
-tbd
+Except of small adjustments and my documentation, the platform is based on the
+[django-marcador Tutorial](http://django-marcador.keimlink.de/)
+of Markus Zapke-Gründemann.
+
+The licence of the [original source code](https://bitbucket.org/keimlink/django-marcador)
+applies to this repository as well: [LICENSE](LICENSE).
 
 ## References
 
