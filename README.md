@@ -21,7 +21,14 @@ tbd
 
 ## Commands
 
-tbd
+A list of useful commands. Run with `python manage.py <command>` from site
+directory.
+
+|Command                   |Description                                   |
+|--------------------------|----------------------------------------------|
+|`runserver`               |Start dev web server on the local machine     |
+|`makemigrations <appname>`|Create new migrations based on models changes |
+|`migrate`                 |Apply/unapply migrations and list their status|             
 
 ## Deployment
 
