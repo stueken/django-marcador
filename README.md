@@ -17,7 +17,7 @@ tbd
 
 ## Setup and configuration (on local Ubuntu 14.04)
 
-tbd
+*   Access main site under <http://127.0.0.1:8000/>, admin site under <http://127.0.0.1:8000/admin/>
 
 ## Commands
 
@@ -28,7 +28,8 @@ directory.
 |--------------------------|----------------------------------------------|
 |`runserver`               |Start dev web server on the local machine     |
 |`makemigrations <appname>`|Create new migrations based on models changes |
-|`migrate`                 |Apply/unapply migrations and list their status|             
+|`migrate`                 |Apply/unapply migrations and list their status|
+|`createsuperuser`         |Create a superuser                            |             
 
 ## Deployment
 
